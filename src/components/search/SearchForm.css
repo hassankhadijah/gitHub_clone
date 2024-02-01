@@ -1,0 +1,45 @@
+.divSearchform {
+    border: 1px solid black; 
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+    margin-top: 5px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.divSearchform input{
+    padding: 15px;
+    width: 100%;
+    background-color: transparent;
+    border: 0;
+    color: white;
+} 
+
+    ::placeholder {
+        color: white;
+        opacity: 1; /* Firefox */
+      }
+      ::-ms-input-placeholder { /* Edge 12-18 */
+        color:#06063f;
+      }
+      
+      
+      
+      
+    
+
+
+
+
+
+
+.githubfont {
+    font-size: 18px;
+}
+
+
+
+
+

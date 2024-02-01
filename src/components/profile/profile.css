@@ -1,0 +1,77 @@
+.identification {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 70px;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+    
+
+
+}
+.separate  {
+    width: 1200px;
+    flex-direction: row;
+    margin: 5px 5px 20px 5px ;
+    
+    
+    
+}
+.followers {
+    border: 2px  solid navy;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color:#083e50;
+    color: white;
+
+
+    
+}
+.following {
+    border: 2px solid navy;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color:#083e50;
+    color: white;
+}
+.location {
+    border: 2px solid navy;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color:#083e50;
+    color: white;
+    
+}
+
+.divimage {
+    width: 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+
+}
+
+img {width : 80px;
+    height: 80px;
+    border-radius: 50px;
+    color: white;
+
+}
+.gitp {
+    color: black;
+}
+    
+    

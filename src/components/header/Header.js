@@ -1,9 +1,12 @@
-import "./Header.scss";
+import "./Header.css";
+import SearchForm from "../search/SearchForm";
 
 export default function Header() {
     return(
-        <section>
-            
+        <section className="sectionHeader">
+            <SearchForm/>
+        
+        
         </section>
     )
 }
